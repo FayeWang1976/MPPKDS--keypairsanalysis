@@ -1,7 +1,8 @@
 # MPPKDS--keypairs_analysis
 
+Digital Signature Performance ofa New Quantum Safe Multivariate Polynomial Public Key Algorithm ---
 
-Simple overview of use/purpose.
+This part shows the average positive and negative correlations of MPPK/DS key pairs versus modulo values. We aim to find the key pairs with large relu correlation coefficient and use ReLU Neural Network to predict private keys.
 
 ## Description
 
