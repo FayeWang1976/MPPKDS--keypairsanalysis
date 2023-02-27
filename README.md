@@ -6,7 +6,7 @@ This part shows the average positive and negative correlations of MPPK/DS key pa
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+
 
 ## Getting Started
 
