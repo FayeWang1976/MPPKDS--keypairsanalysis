@@ -6,19 +6,22 @@ This part shows the average positive and negative correlations of MPPK/DS key pa
 
 ## Description
 
+### Key Generation
+The key is generated according to paper of A new quantum-safe multivariate polynomial public key digital signature algorithm.
+The code is edited on Tommy’s Python code.
 
+### Semi-correlation coefficients
+
+When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are 
+$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
+
+The Cauchy-Schwarz Inequality
+
+$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
 
 ## Getting Started
 
-### Dependencies
-
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
-
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+The code contains three parts.
 
 ### Executing program
 
