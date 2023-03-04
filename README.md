@@ -20,7 +20,7 @@ Math derivation
 
 Person correlation coefficient 
 
-$$ E((X-EX)(Y-EY)) \over\sqrt{E(X^2)-EX^2} sqrt{E(Y^2)-EY^2} $$
+$$ E((X-EX)(Y-EY)) \over\sqrt{E(X^2)-EX^2} \sqrt{E(Y^2)-EY^2} $$
 
 
 ### Twin primes
