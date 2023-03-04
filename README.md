@@ -46,6 +46,9 @@ param lam: the degree of two univariate polynomials\
 param upper_limits: the upper limits in base polynomials
 
 Use quantumrandom project to generate real random numbers:
+Install quantumrandom package
+   ```sh
+   pip install quantumrandom
 https://pypi.org/project/quantumrandom/
 
 ### key_list
