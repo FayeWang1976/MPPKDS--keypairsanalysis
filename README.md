@@ -31,20 +31,21 @@ $$ -  E(ReLU(-(X-EX)(Y-EY))) \over\sqrt{E(X^2)-EX^2} \sqrt{E(Y^2)-EY^2}$$
 Here the basic Rectified Linear Unit: $$ReLU(X) = max(0,X)$$
 Reference: https://link.springer.com/content/pdf/10.1007/978-3-031-02097-1_10.pdf
 
-### Twin primes
-
-
-## Getting Started
+## Executing program
 
 The code contains three parts.
 
-### Executing program
+### keygen_real
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+Generate a public and private key pair based on chosen modulo p.
+
+There are four parameters:
+
+param m: number of noise vars, currently equals to n (might subject to change)
+param n: the degree of a base polynomial
+param lam: the degree of two univariate polynomials
+param upper_limits: the upper limits in base polynomials
+
 
 ## Help
 
