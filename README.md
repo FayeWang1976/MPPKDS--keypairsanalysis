@@ -49,6 +49,7 @@ Use quantumrandom project to generate real random numbers:
 Install quantumrandom package
    ```sh
    pip install quantumrandom
+   ```
 https://pypi.org/project/quantumrandom/
 
 ### key_list
@@ -64,9 +65,6 @@ Rearrange the columns of key pairs to a suitable matrix format.
 
 ## Help
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
 ```
 
 ## Authors
