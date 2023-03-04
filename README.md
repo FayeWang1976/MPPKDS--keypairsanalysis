@@ -29,6 +29,7 @@ $$ -  E(ReLU(-(X-EX)(Y-EY))) \over\sqrt{E(X^2)-EX^2} \sqrt{E(Y^2)-EY^2}$$
 = Upper correlation coefficient − Down correlation coefficient
 
 Here the basic Rectified Linear Unit: $$ReLU(X) = max(0,X)$$
+Reference: https://link.springer.com/content/pdf/10.1007/978-3-031-02097-1_10.pdf
 
 ### Twin primes
 
