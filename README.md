@@ -40,13 +40,9 @@ The code contains four parts.
 Generate a public and private key pair based on chosen modulo p.
 
 There are four parameters:
-
 param m: number of noise vars, currently equals to n (might subject to change)
-
 param n: the degree of a base polynomial
-
 param lam: the degree of two univariate polynomials
-
 param upper_limits: the upper limits in base polynomials
 
 Use quantumrandom project to generate real random numbers:
