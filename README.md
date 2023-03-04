@@ -1,6 +1,6 @@
 # MPPKDS--keypairs_analysis
 
-Digital Signature Performance ofa New Quantum Safe Multivariate Polynomial Public Key Algorithm ---
+Digital Signature Performance ofa New Quantum Safe Multivariate Polynomial Public Key Algorithm --- Key Generation and Correlation
 
 This part shows the average positive and negative correlations of MPPK/DS key pairs versus modulo values. We aim to find the key pairs with large relu correlation coefficient and use ReLU Neural Network to predict private keys.
 
@@ -22,9 +22,6 @@ Person correlation coefficient
 
 $$ x = {E((X-EX)(Y-EY))\{b^2-4ac} \over 2a} $$
 
-The Cauchy-Schwarz Inequality
-
-$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
 
 ### Twin primes
 
