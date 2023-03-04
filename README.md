@@ -7,13 +7,18 @@ This part shows the average positive and negative correlations of MPPK/DS key pa
 ## Description
 
 ### Key Generation
-The key is generated according to paper of A new quantum-safe multivariate polynomial public key digital signature algorithm.
-The code is edited on Tommy’s Python code.
+The key is generated according to paper of A new quantum-safe multivariate polynomial public key digital signature algorithm:
+https://www.researchgate.net/publication/362401919_A_new_quantum-safe_multivariate_polynomial_public_key_digital_signature_algorithm
 
-### Semi-correlation coefficients
+The code is edited on Tommy Zhou’s Python code.
 
-When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are 
-$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
+### Semi-covariance coefficients
+
+Unlike the Pearson coefficient, which only provides two directions, the semi-covariance approach provides a four-direction measurement between the target and variables.
+
+Math derivation
+Person correlation coefficient 
+$$ x = {E((X-EX)(Y-EY))\{b^2-4ac} \over 2a} $$
 
 The Cauchy-Schwarz Inequality
 
