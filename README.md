@@ -33,7 +33,7 @@ Reference: https://link.springer.com/content/pdf/10.1007/978-3-031-02097-1_10.pd
 
 ## Executing program
 
-The code contains three parts.
+The code contains four parts.
 
 ### keygen_real
 
@@ -42,9 +42,25 @@ Generate a public and private key pair based on chosen modulo p.
 There are four parameters:
 
 param m: number of noise vars, currently equals to n (might subject to change)
+
 param n: the degree of a base polynomial
+
 param lam: the degree of two univariate polynomials
+
 param upper_limits: the upper limits in base polynomials
+
+Use quantumrandom project to generate real random numbers:
+https://pypi.org/project/quantumrandom/
+
+### key_list
+
+Generate specified number of key pairs and store them in a .xlsx file.
+
+### split_keys
+
+Rearrange the columns of key pairs to a suitable matrix format.
+
+
 
 
 ## Help
