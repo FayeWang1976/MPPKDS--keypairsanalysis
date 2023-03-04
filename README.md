@@ -17,7 +17,9 @@ The code is edited on Tommy Zhou’s Python code.
 Unlike the Pearson coefficient, which only provides two directions, the semi-covariance approach provides a four-direction measurement between the target and variables.
 
 Math derivation
+
 Person correlation coefficient 
+
 $$ x = {E((X-EX)(Y-EY))\{b^2-4ac} \over 2a} $$
 
 The Cauchy-Schwarz Inequality
