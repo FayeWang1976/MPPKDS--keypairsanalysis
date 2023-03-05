@@ -61,8 +61,8 @@ Generate specified number of key pairs and store them in a .xlsx file.
 Rearrange the columns of key pairs to a suitable matrix format.
 
 Corresponding columns:
-𝑃, 𝑄 ~ 𝑓,ℎ,𝐸_𝜙, 𝐸_𝜑![image](https://user-images.githubusercontent.com/126353306/222948657-3ffd6188-7462-47d2-b944-dc45de30d442.png)
-𝑁_0,𝑁_(𝑛 )~ 𝑅_0,𝑅_𝑛![image](https://user-images.githubusercontent.com/126353306/222948670-61b58dda-a419-4484-a30b-3f5c83cf2302.png)
+𝑃, 𝑄 ~ 𝑓,ℎ,𝐸_𝜙, 𝐸_𝜑
+𝑁_0,𝑁_(𝑛 )~ 𝑅_0,𝑅_𝑛
 
 
 
