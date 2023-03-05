@@ -61,18 +61,11 @@ Generate specified number of key pairs and store them in a .xlsx file.
 Rearrange the columns of key pairs to a suitable matrix format.
 
 Corresponding columns:
-𝑃, 𝑄 ~ 𝑓,ℎ,𝐸<sub>𝜙</sub>, 𝐸<sub>𝜑</sub>
+𝑃, 𝑄 ~ 𝑓,ℎ,𝐸<sub>𝜙</sub>, 𝐸<sub>𝜑</sub>\
 𝑁<sub>0</sub>,𝑁<sub>𝑛</sub> ~ 𝑅<sub>0</sub>,𝑅<sub>𝑛</sub>
 
+### semi_corr
+
+Calculate upper and down covariance
 
 
-## Help
-
-```
-
-## Authors
-
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
