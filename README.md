@@ -18,7 +18,7 @@ Unlike the Pearson coefficient, which only provides two directions, the semi-cov
 
 Math derivation
 
-Person correlation coefficient 
+Pearson correlation coefficient 
 
 $$ E((X-EX)(Y-EY)) \over\sqrt{E(X^2)-EX^2} \sqrt{E(Y^2)-EY^2} $$
 
