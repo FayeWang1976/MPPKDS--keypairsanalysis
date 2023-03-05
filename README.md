@@ -64,6 +64,7 @@ Corresponding columns:
 𝑃, 𝑄 ~ 𝑓,ℎ,𝐸_𝜙, 𝐸_𝜑
 𝑁_0,𝑁_(𝑛 )~ 𝑅_0,𝑅_𝑛
 
+x=log<sub>2</sub>y
 
 
 ## Help
