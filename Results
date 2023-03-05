@@ -1,5 +1,7 @@
 MPPKDS--keypairs_analysis
 
 # Real random numbers
-We calculate up/down correlation coefficient of different key pairs based on 18 Maria primes.\
+We calculate up/down correlation coefficient of different key pairs based on 18 Maria primes：
+107，227，449，809，1119，
+
 The average of up and down covariances of Maria's algorithm is around 0.5864
