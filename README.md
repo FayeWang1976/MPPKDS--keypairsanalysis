@@ -61,7 +61,7 @@ Generate specified number of key pairs and store them in a .xlsx file.
 Rearrange the columns of key pairs to a suitable matrix format.
 
 Corresponding columns:
-𝑃, 𝑄 ~ 𝑓,ℎ,𝐸_𝜙, 𝐸_𝜑
+𝑃, 𝑄 ~ 𝑓,ℎ,𝐸<sub>𝜙, 𝐸<sub>𝜑
 𝑁_0,𝑁_(𝑛 )~ 𝑅_0,𝑅_𝑛
 
 x=log<sub>2</sub>y
