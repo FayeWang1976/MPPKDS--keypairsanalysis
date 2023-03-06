@@ -10,7 +10,7 @@ This part shows the average positive and negative correlations of MPPK/DS key pa
 The key is generated according to paper of A new quantum-safe multivariate polynomial public key digital signature algorithm:
 https://www.researchgate.net/publication/362401919_A_new_quantum-safe_multivariate_polynomial_public_key_digital_signature_algorithm
 
-The code is edited on Tommy Zhou’s Python code.
+The code is edited on Tommy Zhou’s Python code. https://github.com/t0mmyz/MPPK_keygen
 
 ### Semi-covariance coefficients
 
