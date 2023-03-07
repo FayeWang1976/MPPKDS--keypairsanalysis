@@ -52,10 +52,6 @@ if __name__ == '__main__':
         for k in range(len(input[j])):
             in_delt[j].append(input[j][k]-meanIn[j])
             out_delt[j].append(output[j][k]-meanOut[j])
-  
-    for j in range(1,num_pairs):
-        in_delt[j][8] = input[j][18] - meanIn[j]
-        in_delt[j][9] = input[j][19] - meanIn[j]
 
 
     # ups downs
