@@ -12,7 +12,7 @@ import random
 
 def safe_prime():
     """
-    Generate a random safe prime p which satifies p = 2^xq + 1, where q is also a prime
+    Generate a random safe prime p which satisfies p = 2^xq + 1, where q is also a prime
     :return: p
     """
     # First 3-10 safe primes for demo only, real key-gen should be using much larger primes
